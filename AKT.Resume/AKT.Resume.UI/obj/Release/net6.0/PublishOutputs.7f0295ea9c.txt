@@ -1,0 +1,7 @@
+C:\Users\Abby\source\repos\Resume\AKT.Resume\AKT.Resume.UI\obj\Release\net6.0\PubTmp\Out\AKT.Resume.UI.exe
+C:\Users\Abby\source\repos\Resume\AKT.Resume\AKT.Resume.UI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Abby\source\repos\Resume\AKT.Resume\AKT.Resume.UI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Abby\source\repos\Resume\AKT.Resume\AKT.Resume.UI\obj\Release\net6.0\PubTmp\Out\AKT.Resume.UI.dll
+C:\Users\Abby\source\repos\Resume\AKT.Resume\AKT.Resume.UI\obj\Release\net6.0\PubTmp\Out\AKT.Resume.UI.deps.json
+C:\Users\Abby\source\repos\Resume\AKT.Resume\AKT.Resume.UI\obj\Release\net6.0\PubTmp\Out\AKT.Resume.UI.runtimeconfig.json
+C:\Users\Abby\source\repos\Resume\AKT.Resume\AKT.Resume.UI\obj\Release\net6.0\PubTmp\Out\AKT.Resume.UI.pdb
