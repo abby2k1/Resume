@@ -16,3 +16,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.bg-dark {
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, #8d65c5 35%);
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abby\\Source\\Repos\\Resume\\AKT.Resume\\AKT.Resume.UI\\AKT.Resume.UI.csproj": {}
+    "C:\\Users\\Abby\\source\\repos\\Resume\\AKT.Resume\\AKT.Resume.UI\\AKT.Resume.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abby\\Source\\Repos\\Resume\\AKT.Resume\\AKT.Resume.UI\\AKT.Resume.UI.csproj": {
+    "C:\\Users\\Abby\\source\\repos\\Resume\\AKT.Resume\\AKT.Resume.UI\\AKT.Resume.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abby\\Source\\Repos\\Resume\\AKT.Resume\\AKT.Resume.UI\\AKT.Resume.UI.csproj",
+        "projectUniqueName": "C:\\Users\\Abby\\source\\repos\\Resume\\AKT.Resume\\AKT.Resume.UI\\AKT.Resume.UI.csproj",
         "projectName": "AKT.Resume.UI",
-        "projectPath": "C:\\Users\\Abby\\Source\\Repos\\Resume\\AKT.Resume\\AKT.Resume.UI\\AKT.Resume.UI.csproj",
+        "projectPath": "C:\\Users\\Abby\\source\\repos\\Resume\\AKT.Resume\\AKT.Resume.UI\\AKT.Resume.UI.csproj",
         "packagesPath": "C:\\Users\\Abby\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abby\\Source\\Repos\\Resume\\AKT.Resume\\AKT.Resume.UI\\obj\\",
+        "outputPath": "C:\\Users\\Abby\\source\\repos\\Resume\\AKT.Resume\\AKT.Resume.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
